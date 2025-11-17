@@ -18,8 +18,8 @@ Ce dépôt contient les supports du cours **Introduction à la Data Science**, d
 ##  Organisation
 Chaque chapitre contient :
 - Les slides (PDF)
-- Le notebook d’exemple
-- Un mini-TP pratique
+- Les notebook pour les travaux pratiques
+- 
 
 ## Ressources
 - [Documentation Python](https://docs.python.org/)
