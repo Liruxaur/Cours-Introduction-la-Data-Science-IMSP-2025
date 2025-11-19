@@ -19,6 +19,7 @@ Ce dépôt contient les supports du cours **Introduction à la Data Science**, d
 Chaque chapitre contient :
 - Les slides (PDF)
 - Les notebook pour les travaux pratiques
+- Les ressources utiles pour ce cours et aller au delà
 - 
 
 ## Ressources
