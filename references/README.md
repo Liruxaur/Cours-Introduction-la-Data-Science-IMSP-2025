@@ -95,7 +95,8 @@ Ce dossier regroupe une sélection de **ressources web fiables et utiles** pour 
 
 - Towards Data Science : https://towardsdatascience.com/  
 - Analytics Vidhya : https://www.analyticsvidhya.com/  
-- Medium - Data Science : https://medium.com/topic/data-science  
+- Medium - Data Science : https://medium.com/topic/data-science
+         - All about convolutions, kernels, features in CNN: https://medium.com/@abhishekjainindore24/all-about-convolutions-kernels-features-in-cnn-c656616390a1  
 
 ---
 
