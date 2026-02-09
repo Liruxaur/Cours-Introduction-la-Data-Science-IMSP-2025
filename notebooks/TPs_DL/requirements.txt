@@ -1,0 +1,56 @@
+# =====================================================
+# TP Deep Learning — ENVIRONNEMENT STABLE (CPU)
+# Compatible stack (pas de mismatch binaire)
+# Python recommandé : 3.9 – 3.11
+# =====================================================
+
+# ---- Core PyTorch (versions compatibles) ----
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
+
+# ---- Texte (AG_NEWS) ----
+torchtext==0.17.0
+
+# ---- NumPy (évite erreur NumPy 2.x ABI) ----
+numpy==1.26.4
+
+# ---- Visualisation ----
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+
+# ---- Data science ----
+pandas==2.2.2
+scikit-learn==1.4.2
+
+# ---- Notebook ----
+notebook==7.2.0
+jupyterlab==4.2.3
+ipykernel==6.29.4
+
+# ---- Utilities ----
+tqdm==4.66.4
+rich==13.7.1
+portalocker==2.8.2
+
+# =====================================================
+# Optionnel mais utile
+# =====================================================
+
+# ---- TensorFlow ----
+tensorflow==2.16.1
+tensorboard==2.16.2
+
+# ---- Analyse modèles ----
+torchinfo==1.8.0
+captum==0.7.0
+
+# ---- NLP moderne ----
+transformers==4.41.2
+datasets==2.19.1
+
+# ---- Vision avancée ----
+opencv-python==4.9.0.80
+albumentations==1.4.8
+
